@@ -1,0 +1,6 @@
+We sampled over 500 cities and plotted specific weather attributes against their longitude to see
+what correlations may exist.
+
+The graphs in the provided notebook show temperature increasing as you near the earth's equator (0 deg lng),
+cloud coverage and wind speer are mostly indistinguishable at different longitudes,
+and there is a sharp increase in humidity right at the equator.
